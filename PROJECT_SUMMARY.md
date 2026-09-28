@@ -1,17 +1,17 @@
 # Project Summary: app development
 
 ## 1. Overview & Concept
-`app development` is a Assets & Documentation project comprising 11 files (~0.03 MB).
+`app development`: Project Summary: app development - 1. Overview & Concept - `app development` is a Assets & Documentation project comprising 11 files (~0.03 MB).
 
 - **Primary Tech Stack:** Assets & Documentation
-- **Tracked Codebase:** 11 files (~0.03 MB)
+- **Tracked Codebase:** 14 files (~0.04 MB)
 - **Repository:** [app development](https://github.com/daskoon/app-development)
 
 ## 2. Current State
-Collection of assets, scripts, and documentation (11 files, 0.03 MB).
+Collection of assets, scripts, and documentation (14 files, 0.04 MB).
 
 ### Key Structural Composition
-- Top file types: .md: 6, no-ext: 2, .json: 2, .js: 1
+- Top file types: .md: 8, no-ext: 3, .json: 2, .js: 1
 
 ## 3. Where To Go (Roadmap & Next Steps)
 - [ ] Catalog and categorize assets into structured subdirectories
